@@ -1,0 +1,180 @@
+Objective
+
+Q1)   a
+Q2)  b
+Q3)  b
+Q4) d
+Q5) d
+Q6) c
+Q7) d
+Q8) b
+Q9) d
+Q10) c
+Q11) a=20 (Answer not available in options)
+Q12) a
+Q13) c
+Q14) b
+Q15) b
+Q16) c
+Q17) b
+Q18) d
+Q19) b
+Q20) c
+Q21) b
+Q22) d
+Q23) d
+Q24) c
+Q25)  a
+Q26) a
+Q27) b
+Q28) c
+Q29) b
+Q30) c
+Q31) b
+Q32) b
+Q33) b
+Q34) b
+Q35) c
+Q36) a
+Q37) c
+Q38) a
+Q39) b
+Q40) c
+Q41) a
+Q42) a
+Q43) c
+Q44) b
+Q45) c
+Q46) b
+Q47) d
+Q48) a
+Q49) c
+Q50) c
+Q51) a
+Q52) b
+Q53) b
+Q54) c
+Q55) c
+Q56) a
+Q57) b
+Q58) /animals/feline/
+Q59) a and e
+Q60) /animals/ursine/bears.gif
+Q61)  a
+Q62) ../ursine/bears.gif
+Q63) b
+Q64) a
+Q65) b
+Q66) a
+Q67) b
+Q68) b
+Q69) a 
+Q70) a
+Q71) c
+Q72) a
+Q73) a
+Q74) a
+Q75) a
+
+Q76) a
+Q77) a
+Q78) d
+Q79) b
+Q80) d
+Q81) a
+Q82)  a
+Q83) a
+Q84) c
+Q85) d
+Q86) a
+Q87) a
+Q88) d
+Q89)  c
+Q90) c
+Q91) b
+Q92) c
+Q93) a
+Q94) d
+Q95) b
+Q96) d
+Q97) c
+Q98) c
+Q99) b
+Q100) a
+Q101) c
+Q102) a
+Q103) a
+Q104)  d
+Q105) b
+Q106) a
+Q107)  a
+Q108) b
+Q109) a
+Q110) d
+Q111) c
+Q112) b
+Q113) a
+Q114) b
+Q115) c
+Q116) b
+Q117) b
+Q118) c
+Q119) a
+Q120) a
+Q121) c
+Q122) d
+Q123) a
+Q124) a
+Q125) c
+Q126) a
+Q127) b
+Q128) c
+Q129) b
+Q130) a
+Q131) a
+Q132) a
+Q133) a
+Q134) a
+Q135) c
+Q136) a
+Q137) a
+Q138) a
+Q139) b
+Q140) a
+Q141) b
+Q142) d
+Q143)d
+Q144) a
+Q145) a
+Q146) a
+Q147)  b
+Q148) a
+Q149) b
+Q150) a
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+   
